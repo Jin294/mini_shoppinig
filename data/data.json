@@ -1,42 +1,42 @@
 {
 	"items": [
 		{
-			"type" : "tshirts",
+			"type" : "tshirt",
 			"gender" : "female", 
 			"size" : "large",
 			"color" : "pink",
 			"image" : "/img/pink_t.png"
 		},
 		{
-			"type" : "tshirts",
+			"type" : "tshirt",
 			"gender" : "female", 
 			"size" : "large",
 			"color" : "blue",
 			"image" : "/img/blue_t.png"
 		},
 		{
-			"type" : "tshirts",
+			"type" : "tshirt",
 			"gender" : "female", 
 			"size" : "large",
 			"color" : "yellow",
 			"image" : "/img/yellow_t.png"
 		},
 		{
-			"type" : "tshirts",
+			"type" : "tshirt",
 			"gender" : "male", 
 			"size" : "large",
 			"color" : "pink",
 			"image" : "/img/pink_t.png"
 		},
 		{
-			"type" : "tshirts",
+			"type" : "tshirt",
 			"gender" : "male", 
 			"size" : "large",
 			"color" : "blue",
 			"image" : "/img/blue_t.png"
 		},
 		{
-			"type" : "tshirts",
+			"type" : "tshirt",
 			"gender" : "male", 
 			"size" : "large",
 			"color" : "yellow",
